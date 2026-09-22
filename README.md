@@ -8,7 +8,7 @@ Keep media and volume keys working on the *local* PC while a Remote Desktop (mst
 - 管理者権限は不要です。
 - 外部ライブラリなし。
 
-## 問題
+## このアプリが解決する問題
 
 マウスソフトで「次の曲」をボタンに割り当てると、それはキーボードのメディアキー（`VK_MEDIA_NEXT_TRACK`）として送られます。リモートデスクトップが前面にあると mstsc がそのキーをリモートへ転送するため、ローカルで再生中の曲はスキップされません。
 
